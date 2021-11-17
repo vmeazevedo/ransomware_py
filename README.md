@@ -1,5 +1,6 @@
 # ransomware_python
-Script ransomware
+Script ransomware desenvolvido em python.
+
 
 ### Alvo (Desktop/NovaPast):
 ![image](https://user-images.githubusercontent.com/40063504/142247006-eee31c2d-6d9e-4bdc-b6ca-67595c624b8b.png)
