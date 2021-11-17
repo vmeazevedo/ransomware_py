@@ -1,4 +1,4 @@
-# ransomware_python
+# ransomware_v1.0
 Script ransomware desenvolvido em python.
 
 
